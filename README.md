@@ -1,16 +1,6 @@
 <!-- Variables -->
-[home]: https://airplane.gg
-[blog]: https://blog.airplane.gg
-[downloads]: https://dl.airplane.gg
-[about]: https://blog.airplane.gg/about/
-[discord]: https://discord.gg/63dDSReB7j
-[purity]: https://www.purityvanilla.com
-[patreon]: https://www.patreon.com/airplane
-[fork]: https://github.com/TECHNOVE/MyAirplaneFork
-[wiki]: https://github.com/TECHNOVE/Airplane/wiki
-
 # Airplane
-A stable, optimized, well supported 1.17 Paper fork.
+~~A stable, optimized, well supported 1.17 Paper fork.~~ old fork of paper, no longer supported
 
 [Homepage][home] - [Downloads][downloads] - [Blog][blog] - [Discord][discord] - [airplane.yml][wiki]
 
@@ -26,15 +16,7 @@ A stable, optimized, well supported 1.17 Paper fork.
 - [Read more about our features.][about]
 
 ## Downloads
-The latest JAR file can be downloaded from [the downloads page][downloads]. You can also clone this repository and build it yourself.
-
-If you are interested in making a fork of Airplane, check out this template [here][fork]!
-
-## Patreon
-
-Thanks to all our Patrons! It is your help that keeps this project running. Check out our Private Quarters & First Class Patrons:
-
-[![Purity Vanilla](https://i.imgur.com/SC88aEg.png)][purity]
+The latest JAR file can be downloaded from [the downloads page][downloads].
 
 ## Building
 
