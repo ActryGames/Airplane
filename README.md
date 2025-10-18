@@ -2,8 +2,6 @@
 # Airplane
 ~~A stable, optimized, well supported 1.17 Paper fork.~~ old fork of paper, no longer supported
 
-[Homepage][home] - [Downloads][downloads] - [Blog][blog] - [Discord][discord] - [airplane.yml][wiki]
-
 ## Features
 
 - **30% faster hoppers** over both Tuinity & Paper
@@ -16,7 +14,7 @@
 - [Read more about our features.][about]
 
 ## Downloads
-The latest JAR file can be downloaded from [the downloads page][downloads].
+In the releases
 
 ## Building
 
